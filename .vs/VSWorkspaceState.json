@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Context",
+    "\\Context\\Models",
+    "\\dentistServer",
+    "\\dentistServer\\Controllers",
+    "\\dentistServer\\Properties"
+  ],
+  "SelectedNode": "\\Context\\DBContext.cs",
+  "PreviewInSolutionExplorer": false
+}
